@@ -1,4 +1,4 @@
-![Reggae Banner](https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif)
+![Reggae Banner]([https://media.giphy.com/media/xxxxxx/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzh6d2VzZW9ubnQydXplN3Yya3kxcXA3OHRmZ3czNzFkdmRncnpxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/127sxeBDbOqdYk/giphy.gif)
 
 # 👋 Hey, I'm Samuel
 
@@ -14,4 +14,3 @@ I enjoy learning new tech and finding creative ways to generate value **from mom
 
 📩 Let’s connect: [LinkedIn](https://www.linkedin.com) · [Twitter](https://twitter.com) · [Portfolio](#)
 
-![Banner]([https://media.giphy.com/media/xxxxxx/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzh6d2VzZW9ubnQydXplN3Yya3kxcXA3OHRmZ3czNzFkdmRncnpxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/127sxeBDbOqdYk/giphy.gif))
