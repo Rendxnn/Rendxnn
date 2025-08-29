@@ -14,3 +14,4 @@ I enjoy learning new tech and finding creative ways to generate value **from mom
 
 📩 Let’s connect: [LinkedIn](https://www.linkedin.com) · [Twitter](https://twitter.com) · [Portfolio](#)
 
+**![Codewars](https://www.codewars.com/users/<tu-usuario>/badges/large)**
