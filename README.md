@@ -1,3 +1,5 @@
+![Reggae Banner](https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif)
+
 # 👋 Hey, I'm Samuel
 
 💻 Developer | 🚀 Problem Solver | 🎶 Music & Code Enthusiast  
