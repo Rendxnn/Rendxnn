@@ -9,7 +9,7 @@ I enjoy learning new tech and finding creative ways to generate value **from mom
 
 - 🔥 Languages & Stacks I use: `.NET | Java | Python | Angular | PostgreSQL | Docker | Kubernetes`
 - 🎯 Love working with: **AI wrappers, scrapers, and system design**
-- 🎸 Outside of code: Into **reggae, rap, and rock**, fitness, calisthenics, soccer and videogames.
+- 🎸 Outside of code: Into **reggae, rap, and rock**, fitness, calisthenics, soccer, videogames and books.
 - 🌍 Based in Medellín, Colombia 🇨🇴  
 
 📩 Let’s connect: [LinkedIn](https://www.linkedin.com) · [Twitter](https://twitter.com) · [Portfolio](#)
