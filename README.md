@@ -14,6 +14,8 @@ I enjoy learning new tech and finding creative ways to generate value **from mom
 
 📩 Let’s connect: [LinkedIn](https://www.linkedin.com) · [Twitter](https://twitter.com) · [Portfolio](#)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/rendxnn?theme=dark&font=Karma&ext=heatmap)
+
 ![Codewars](https://www.codewars.com/users/Rendxnn/badges/large)
 
 ## My skills:
