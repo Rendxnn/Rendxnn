@@ -34,6 +34,7 @@ I enjoy learning new tech and finding creative ways to generate value **from mom
 Here are some of my stats:  
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rendxnn?theme=dark&font=Karma&ext=heatmap)  
+
 ![Codewars](https://www.codewars.com/users/Rendxnn/badges/large)  
 
 ---
