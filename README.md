@@ -17,4 +17,4 @@ I enjoy learning new tech and finding creative ways to generate value **from mom
 ![Codewars](https://www.codewars.com/users/Rendxnn/badges/large)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,cs,python,docker,aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,aws,gcp,azure)](https://skillicons.dev)
