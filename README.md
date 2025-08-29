@@ -41,8 +41,8 @@ Here are some of my stats:
 
 ## 🛠️ My Skills  
 
-### 💻 Languages  
-[![My Skills](https://skillicons.dev/icons?i=python,cs,java,js,html,css,shell)](https://skillicons.dev)  
+### 💻 Languages (From most used to least)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,java,js,html,css,shell,cpp,c,go,r)](https://skillicons.dev)  
 
 ### ⚙️ Frameworks  
 [![My Skills](https://skillicons.dev/icons?i=dotnet,spring,django)](https://skillicons.dev)  
