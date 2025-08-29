@@ -50,10 +50,10 @@ Here are some of my stats:
 ### ☁️ Cloud & DevOps  
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,linux,ubuntu,wsl)](https://skillicons.dev)  
 
-### Databases
+### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb)](https://skillicons.dev) 
 
-### Miscellaneous
+### 🧩 Miscellaneous
 [![My Skills](https://skillicons.dev/icons?i=git,github,gmail,postman,vscode,visualstudio,maven,nginx,notion,npm)](https://skillicons.dev) 
 
 ---
