@@ -22,9 +22,8 @@ I enjoy learning new tech and finding creative ways to generate value **from mom
 - 🌍 Based in **Medellín, Colombia** 🇨🇴  
 
 ## 📩 **Let’s connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samuel-rend%C3%B3n-1bb68a240/) 
-
-[![Gmail](https://img.shields.io/badge/Gmail?style=flat-square&logo=gmail)](samiretru@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samuel-rend%C3%B3n-1bb68a240/)  
+[![Gmail](https://img.shields.io/badge/Gmail-samiretru%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:samiretru@gmail.com)
 
 
 ---
