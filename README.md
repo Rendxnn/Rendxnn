@@ -51,7 +51,7 @@ Here are some of my stats:
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,linux,ubuntu,wsl)](https://skillicons.dev)  
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=postgres,sqlserver)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb)](https://skillicons.dev) 
 
 ---
 
