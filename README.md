@@ -21,9 +21,9 @@ I enjoy learning new tech and finding creative ways to generate value **from mom
 - 🎸 Outside of code: reggae, rap, rock 🎶 · fitness 💪 · calisthenics · soccer ⚽ · videogames 🎮 · books 📚
 - 🌍 Based in **Medellín, Colombia** 🇨🇴  
 
-📩 **Let’s connect:**  
+## 📩 **Let’s connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samuel-rend%C3%B3n-1bb68a240/) 
-[![Gmail](https://img.shields.io/badge/Gmail?style=flat-square&logo=gmail)](samiretru@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail?style=flat-square&logo=gmail)](samiretru@gmail.com) **
 
 ---
 
