@@ -48,9 +48,10 @@ Here are some of my stats:
 [![My Skills](https://skillicons.dev/icons?i=dotnet,spring,django)](https://skillicons.dev)  
 
 ### ☁️ Cloud & DevOps  
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,linux)](https://skillicons.dev)  
-- AWS S3 · AWS ECS · AWS EKS  
-- REST APIs (Postman, Swagger)  
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,linux,ubuntu,wsl)](https://skillicons.dev)  
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlserver)](https://skillicons.dev) 
 
 ---
 
