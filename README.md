@@ -42,16 +42,19 @@ Here are some of my stats:
 ## 🛠️ My Skills  
 
 ### 💻 Languages (From most used to least)
-[![My Skills](https://skillicons.dev/icons?i=python,cs,java,js,html,css,shell,cpp,c,go,r)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python,cs,java,js,ts,html,css,shell,cpp,c,go,php,r)](https://skillicons.dev)  
 
 ### ⚙️ Frameworks  
-[![My Skills](https://skillicons.dev/icons?i=dotnet,spring,django)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=dotnet,spring,django,flask,fastapi)](https://skillicons.dev)  
 
 ### ☁️ Cloud & DevOps  
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,linux,ubuntu,wsl)](https://skillicons.dev)  
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb)](https://skillicons.dev) 
+
+### Miscellaneous
+[![My Skills](https://skillicons.dev/icons?i=git,github,gmail,postman,vscode,vs,notion,npm)](https://skillicons.dev) 
 
 ---
 
