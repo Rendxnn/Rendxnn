@@ -21,7 +21,7 @@ I enjoy learning new tech and finding creative ways to generate value **from mom
 [![My Skills](https://skillicons.dev/icons?i=python,cs,java,js,html,css)](https://skillicons.dev)
 
 ### Frameworks I have worked with:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,springboot,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,spring,django)](https://skillicons.dev)
 
 ### Other tech I usually use:
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,gcp,ubuntu,linux)](https://skillicons.dev)
